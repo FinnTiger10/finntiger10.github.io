@@ -1,2 +1,2 @@
 # Coblitzde-Website
-The website for the coblitzde website.
+The code for the coblitzde website.
