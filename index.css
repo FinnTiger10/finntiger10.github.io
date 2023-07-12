@@ -2,6 +2,9 @@ body {
     font-family: 'Poppins';
     margin: 1vw;
     padding: 1vw;
+    color: white;
+    background-color: black;
+    
 }
 
 li img, p {
