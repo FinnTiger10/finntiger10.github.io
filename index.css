@@ -16,3 +16,11 @@ li img, p {
     grid-template-columns: 1fr 1fr 1fr;
     grid-gap: 20px;
 }
+
+a:visited {
+    color: white;
+}
+
+a {
+    color: white;
+}
